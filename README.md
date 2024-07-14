@@ -1,4 +1,4 @@
-# Receita-e-Assinantes-da-Netflix
+# Receita e Assinantes da Netflix
 ## **Dados**
 O conjunto de dados *Netflix OTT Revenue and Number of Paid Subscribers* apresenta informações detalhadas sobre a receita da Netflix em dólares e o número de assinantes pagos, organizados por região e data. As principais colunas incluem:
 
