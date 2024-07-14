@@ -9,8 +9,9 @@ O conjunto de dados *Netflix OTT Revenue and Number of Paid Subscribers* apresen
 
 > A base de dados foi extraida do *Kaggle* e pode ser encontrada neste [link](https://www.kaggle.com/datasets/mauryansshivam/netflix-ott-revenue-and-subscribers-csv-file/data).
 
- <br>Com os dados disponibilizados, foi realizada uma análise utilizando a técnica de aprendizado de máquina (**Classificação**), com o objetivo de prever a região (*UCAN*, *EMEA*, *LATM* ou *APAC*) com base em suas características. A análise foi conduzida através da correlação entre as variáveis selecionadas e aplicada ao modelo para a predição de um exemplo pré-processado. Foi feita toda avaliação e precisão do modelo com árvore de desisão e outras métricas de visualização.
+ <br> Com os dados disponibilizados, foi realizada uma análise utilizando a técnica de aprendizado de máquina (**Classificação**), com o objetivo de prever a região (*UCAN*, *EMEA*, *LATM* ou *APAC*) com base em suas características. A análise foi conduzida através da correlação entre as variáveis selecionadas e aplicada ao modelo para a predição de um exemplo pré-processado. Foi feita toda avaliação e precisão do modelo com árvore de desisão e outras métricas de visualização.
  
+----- 
 ## **Tecnologias**
 - Bibliotecas utilizadas:
   - ``numpy``.
